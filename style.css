@@ -25,6 +25,7 @@ body {
     margin: auto;
     margin: 0px;
     border: 0px;
+    padding: -10px;
     text-align: justify;
 }
 header {
@@ -79,7 +80,6 @@ main {
     min-width: 300px;
     max-width: 800px;
     padding: 50px;
-    padding-right: -20px;
     border-radius: 0px 0px 5px 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.568);
 }
